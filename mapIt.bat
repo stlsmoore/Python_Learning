@@ -1,0 +1,1 @@
+ @py.exe C:\Users\moore\PyScripts\AtBS\mapIt.py %*
